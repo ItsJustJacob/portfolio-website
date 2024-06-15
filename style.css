@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --primary-text: #2c3e50;
+    --secondary-text: #7f8c8d;
+    --primary-bg: #ecf0f1;
+    --secondary-bg: #bdc3c7;
+    --accent-color: #e74c3c;
+}
+
 * {
     margin: 0;
     padding: 0;
