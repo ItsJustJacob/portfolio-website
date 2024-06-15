@@ -1,0 +1,1 @@
+Repozytorium stworzone na potrzeby zaliczenie przedmiotu Studium przypadku - programowanie w grupie programistycznej
